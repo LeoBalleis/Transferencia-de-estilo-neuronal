@@ -3,7 +3,7 @@
 # <h1 align=center>**`Transferencia de estilo neuronal`**</h1>
 
 <p align="center">
-<img src=".\portada.jpg"   
+<img src=".\portada02.jpg"   
 >
 </p>
 
@@ -15,7 +15,7 @@ Hola  Mi nombre es Leonel Balleis, me caracterizo por mi entusiasmo y dedicació
 ## Objetivos: 
 
 ¿Alguna vez deseó poder pintar como Picasso o Van Gogh?
-En este proyecto me pareció divertido utilizar el aprendizaje profundo para componer una imagen con el estilo de otra imagen, en este caso estoy utilizando una foto de mi perrita Kalu .
+En este proyecto me pareció divertido utilizar el aprendizaje profundo para componer una imagen con el estilo de otra imagen, en este caso estoy utilizando  fotos de mis mascotas .
 
 
 ## Presentación y Definición del proyecto:
