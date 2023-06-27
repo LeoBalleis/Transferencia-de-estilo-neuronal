@@ -11,7 +11,6 @@
 
 Hola  Mi nombre es Leonel Balleis, me caracterizo por mi entusiasmo y dedicación hacia el campo de la inteligencia artificial y el aprendizaje automático. Mi interés por esta disciplina no se limita únicamente a su aplicación práctica, sino que también me mueve una curiosidad innata por entender los fundamentos teóricos y explorar nuevas posibilidades.
 
-En este proyecto me parecio divertido 
 
 ## Objetivos: 
 
