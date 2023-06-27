@@ -3,7 +3,7 @@
 # <h1 align=center>**`Transferencia de estilo neuronal`**</h1>
 
 <p align="center">
-<img src="..\Transferencia_de_estilo\portada.jpg"   
+<img src="..\portada.jpg"   
 >
 </p>
 
